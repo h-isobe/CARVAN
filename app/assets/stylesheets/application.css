@@ -263,3 +263,6 @@ footer {
 .author-text {
   font-size: 10px;
 }
+.jquery-add {
+  border: 10px solid black;
+}
